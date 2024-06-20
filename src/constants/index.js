@@ -158,7 +158,7 @@ const testimonials = [
   },
    {
     testimonial:
-      "Thanks 👍. For El Omaraa Clinic Website",
+      "Thanks 👍.",
     name: "Bessma Benslimane",
     designation: "",
     company: "Client",
