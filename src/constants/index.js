@@ -152,16 +152,16 @@ const testimonials = [
     testimonial:
       "",
     name: "Ibtissam Ykhlef",
-    designation:"" ,
-    company: "Student",
+    company: "Client",
+        designation: "",
     image: women,
   },
    {
     testimonial:
       "Thanks 👍. For El Omaraa Clinic Website",
     name: "Bessma Benslimane",
-    designation: "benslimanebesma251@gmail.com",
-    company: "Student",
+    designation: "",
+    company: "Client",
     image: women,
   },
 ];
