@@ -150,7 +150,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "",
+      "Good .",
     name: "Ibtissam Ykhlef",
     company: "Client",
         designation: "",
